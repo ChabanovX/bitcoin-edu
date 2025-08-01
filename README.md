@@ -1,2 +1,3 @@
-# rust-bitcoin
-Bitcoin wallet core written in Rust
+# Bitcoin-edu
+
+This application shows the work of Bitcoin Protocol.
